@@ -33,10 +33,8 @@ from tqdm import tqdm
 %matplotlib inline
 
 #Elite NLP Imports
-import pandas as pd
-import numpy as np
+
 import csv
-import os
 import random
 import torch
 torch.backends.cudnn.benchmark = True
