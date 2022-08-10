@@ -30,7 +30,7 @@ from string import punctuation
 from nltk.stem.wordnet import WordNetLemmatizer
 from tqdm import tqdm
 
-%matplotlib inline
+#%matplotlib inline
 
 #Elite NLP Imports
 
